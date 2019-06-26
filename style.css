@@ -1,7 +1,7 @@
 nav ul a,
 nav .brand-logo {
-font-family: 'Roboto', sans-serif;
-font-size: 14px;
+font-family: 'Loved by the King', cursive;
+font-size: 20px;
 color: lightpink;
 background-color: transparent;
 
@@ -18,8 +18,8 @@ html {
 }
 
 body{
-font-family: 'Roboto', sans-serif;
- font-size:20px;
+font-family: 'Loved by the King', cursive;
+ font-size:25px;
  
 }
 head{
@@ -84,7 +84,7 @@ head{
 }
 
 .header-center-teal-text-text-lighten-2{
-  font-family: 'Roboto', sans-serif;
+ font-family: 'Loved by the King', cursive;
    position: center;
 
 }
@@ -92,7 +92,7 @@ nav{
   background-color: #e4227d;
 }
 .logo{
- font-family: 'Roboto', sans-serif;
+ font-family: 'Loved by the King', cursive;
    position: center;
    text-align: center;
    height:150px;
@@ -105,16 +105,16 @@ nav{
 }
 
 h3{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Loved by the King', cursive;
   color:#e4227d;
 }
 h1{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Loved by the King', cursive;
   text-align: : center;
   color: #e4227d;
 }
 h2,h5,h4,h6{
-   font-family: 'Roboto', sans-serif;
+   font-family: 'Loved by the King', cursive;
    font-size: 30px;
    text-align: : center;
    color: #e4227d;
@@ -151,7 +151,7 @@ footer.page-footer {
 
 
 figcaption{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Loved by the King', cursive;
   font-size:30px;
 }
 
@@ -324,37 +324,6 @@ display: none !important;}
         width: 70%;
     }
 }
-
-/*CALENDAR*/
- @media (max-width: 550px) {
-     .big-container {
-         display: none;
-     }
- }
- @media (min-width: 550px) {
-     .small-container {
-         display: none;
-     }
- }
-
-.responsive-iframe-container {
-position: relative;
-padding-bottom: 56.25%;
-padding-top: 30px;
-height: 0;
-overflow: hidden;
-}
-
-.responsive-iframe-container iframe,
-.vresponsive-iframe-container object,
-.vresponsive-iframe-container embed {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-}
-
 
 
 
