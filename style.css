@@ -158,6 +158,10 @@ figcaption{
 a{
   color:#00bdef;
 }
+
+p{
+  font-size:20px;
+}
 /* CSS Image Hover. Created refering to Naoya's Pen: https://codepen.io/nxworld/pen/ZYNOBZ */
 /*Sepia*/
 .column#sepia img {
