@@ -90,6 +90,7 @@ head{
 nav{
   background-color: #e4227d;
 }
+
 .logo{
 font-family: 'Open Sans Condensed', sans-serif; 
   position: center;
@@ -110,7 +111,7 @@ h3{
 h1{
  font-family: 'Open Sans Condensed', sans-serif;
   text-align: : center;
-  color: #e4227d;
+  color: #00bdef;
 }
 h2,h5,h4,h6{
    font-family: 'Open Sans Condensed', sans-serif;
@@ -132,6 +133,10 @@ background:pink !important; /* !important is just to override other styles, if a
 .page-footer{
 background-color: #e4227d
 
+}
+
+.icon-bar {
+  color: #00bdef;
 }
 .icon-block {
   padding: 0 15px;
