@@ -1,7 +1,6 @@
 nav ul a,
 nav .brand-logo {
-font-family: 'Loved by the King', cursive;
-font-size: 20px;
+font-family: 'Open Sans Condensed', sans-serif;
 color: lightpink;
 background-color: transparent;
 
@@ -18,7 +17,7 @@ html {
 }
 
 body{
-font-family: 'Loved by the King', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
  font-size:25px;
  
 }
@@ -84,7 +83,7 @@ head{
 }
 
 .header-center-teal-text-text-lighten-2{
- font-family: 'Loved by the King', cursive;
+ font-family: 'Open Sans Condensed', sans-serif;
    position: center;
 
 }
@@ -92,8 +91,8 @@ nav{
   background-color: #e4227d;
 }
 .logo{
- font-family: 'Loved by the King', cursive;
-   position: center;
+font-family: 'Open Sans Condensed', sans-serif; 
+  position: center;
    text-align: center;
    height:150px;
 }
@@ -105,16 +104,16 @@ nav{
 }
 
 h3{
-  font-family: 'Loved by the King', cursive;
+  font-family: 'Open Sans Condensed', sans-serif;
   color:#e4227d;
 }
 h1{
-  font-family: 'Loved by the King', cursive;
+ font-family: 'Open Sans Condensed', sans-serif;
   text-align: : center;
   color: #e4227d;
 }
 h2,h5,h4,h6{
-   font-family: 'Loved by the King', cursive;
+   font-family: 'Open Sans Condensed', sans-serif;
    font-size: 30px;
    text-align: : center;
    color: #e4227d;
@@ -151,7 +150,7 @@ footer.page-footer {
 
 
 figcaption{
-  font-family: 'Loved by the King', cursive;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size:30px;
 }
 
